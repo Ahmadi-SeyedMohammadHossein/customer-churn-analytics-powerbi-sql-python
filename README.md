@@ -97,8 +97,7 @@ customer-churn-analytics-powerbi-sql-python/
 
 ## 📊 Dashboard Preview
 
-![Customer Churn Analysis Dashboard](./powerbi/dashboard_preview.png)
-
+![Customer Churn Analysis Dashboard](./powerbi/Customer%20Churn%20Analysis%20Dashboard.png)
 > 🎬 [Watch Dashboard Walkthrough (30s)](./powerbi/Customer%20Churn%20Analysis%20Dashboard.mp4)
 
 **Dashboard includes:**
